@@ -1,0 +1,7 @@
+﻿<%@ ServiceHost 
+    Language="C#" 
+    Debug="true" 
+    Service="BankinApp.L2.Service.Soap.ServiceConsultation"   
+    %>
+    //Factory ="BankinApp.L2.Service.Soap.Host.WcfServiceFactory"
+    //CodeBehind="Service1.svc.cs" %>
