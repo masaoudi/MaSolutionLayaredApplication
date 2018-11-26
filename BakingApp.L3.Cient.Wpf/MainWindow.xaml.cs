@@ -33,6 +33,7 @@ namespace BakingApp.L3.Cient.Wpf
             proxy.ConsulterSoldeAsync(num);
            // var solde = proxy.ConsulterSolde(num); // Appel synchrone
            // lbSolde.Content = solde;
+
         }
 
         private void Proxy_ConsulterSoldeCompleted(object sender, ConsulterSoldeCompletedEventArgs e)
